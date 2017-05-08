@@ -498,7 +498,7 @@ header nav ul li a.bordered {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 #content section.intro:after {
   content: "";
@@ -511,14 +511,14 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 8em;
+  font-size: 4em;
   font-weight: normal;
-  border-top: 2px solid #fff;
+  border-top: 2px solid #ccc;
   letter-spacing: -0.02em;
   margin-top: 1.2em;
   margin-bottom: 1em;
-  padding-top: 0.25em;
-  line-height: 0.95;
+  padding-top: 0.35em;
+  line-height: 1.1;
 }
 
 @media screen and (max-width: 540px) {
@@ -554,7 +554,7 @@ header nav ul li a.bordered {
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 }
 #content section.row:after {
   content: "";
@@ -577,9 +577,8 @@ header nav ul li a.bordered {
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
-  border-top: 2px solid #ced9e0;
+  border-top: 2px solid #aaa;
   padding-top: 1em;
-  padding-bottom: 3em;
 }
 #content section.row .col:last-child, #content section.row .col-full:last-child {
   margin-right: 0;
