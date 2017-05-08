@@ -511,7 +511,7 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro h1 {
-  font-size: 4em;
+  font-size: 4.5em;
   font-weight: normal;
   border-top: 2px solid #ccc;
   letter-spacing: -0.02em;
@@ -523,7 +523,7 @@ header nav ul li a.bordered {
 
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 4em;
+    font-size: 3em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
