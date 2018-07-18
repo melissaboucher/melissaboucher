@@ -409,7 +409,9 @@ header #logo-container #logo {
 header #logo-container #subtitle {
   color: #16C399;
   font-size: 1.5em;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
+  word-spacing: -0.25em;
+  padding-left: 3px;
 }
 
 @media screen and (max-width: 540px) {
