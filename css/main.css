@@ -523,7 +523,7 @@ header nav ul li a.bordered {
   font-weight: normal;
   border-top: 2px solid #CFD8DC;
   letter-spacing: -0.01em;
-  margin-top: 1.1em;
+  margin-top: 1em;
   margin-bottom: 0.7em;
   padding-top: 0.35em;
   line-height: 1.15;
@@ -587,7 +587,7 @@ header nav ul li a.bordered {
   width: 48.82117%;
   border-top: 2px solid #CFD8DC;
   padding-top: 1em;
-  padding-bottom: 3em;
+  padding-bottom: 2em;
 }
 #content section.row .col:last-child, #content section.row .col-full:last-child {
   margin-right: 0;
