@@ -350,7 +350,7 @@ a:hover {
 }
 
 header {
-  max-width: 52em;
+  max-width: 68em;
   margin-left: auto;
   margin-right: auto;
   margin-top: 4em;
@@ -482,7 +482,7 @@ header nav ul li a.bordered {
 }
 
 #content {
-  max-width: 52em;
+  max-width: 68em;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 2em;
@@ -505,7 +505,7 @@ header nav ul li a.bordered {
   clear: both;
 }
 #content section.intro {
-  max-width: 52em;
+  max-width: 68em;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2em;
@@ -560,7 +560,7 @@ header nav ul li a.bordered {
 }
 
 #content section.row {
-  max-width: 52em;
+  max-width: 68em;
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
