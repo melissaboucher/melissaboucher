@@ -533,7 +533,7 @@ header nav ul li a.bordered {
 
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
-    font-size: 3em;
+    font-size: 2.75em;
     line-height: 1.2em;
     padding-top: 0.4em;
   }
